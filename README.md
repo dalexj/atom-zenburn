@@ -1,26 +1,5 @@
-# zenburn theme
+# zenburn theme - FORKED
 
-[Zenburn](http://slinky.imukuppi.org/zenburnpage/) is a low-contrast theme meant
-for long coding sessions. It was originally a vim theme, but it's grown from 
-there.
+I really like this theme but I made a couple changes so some stuff stands out to me. Namely: strings, interpolation in strings, and the line number column
 
-![screenshot](http://i.imgur.com/F9fHfwh.jpg)
-
-## Licensing
-
-This theme for Atom is based on 
-[Colin T.A. Gray's version](https://github.com/colinta/zenburn) for TextMate.
-
-Like it, it's released under the terms of the MIT license.
-
-## Language Support
-
-I've not tested it with anything except Ruby and Markdown, and both seem to
-work fine. Because it's a conversion theme, everything that was supported in
-TextMate should be supported in Atom.
-
-## Publishing
-
-To release a new version, ensure that everything is set on master and do `apm publish`.
-
-If you forget and manually tag, use `apm publish -t <tag>`.
+if you want the rest of the information about this package - go to the fork
