@@ -1,19 +1,19 @@
 {
-  "name": "zenburn",
+  "name": "zenburn-dalexj",
   "theme": "syntax",
   "version": "3.1.0",
-  "description": "Low contrast theme for long coding sessions, e.g. work",
+  "description": "forked zenburn but with a tiny more contrast",
   "repository": {
     "type": "git",
-    "url": "https://github.com/colindean/atom-zenburn"
+    "url": "https://github.com/dalexj/atom-zenburn"
   },
   "license": "MIT",
   "engines": {
     "atom": ">=0.194.0"
   },
   "readmeFilename": "README.md",
-  "homepage": "https://github.com/colindean/atom-zenburn",
+  "homepage": "https://github.com/dalexj/atom-zenburn",
   "bugs": {
-    "url": "https://github.com/colindean/atom-zenburn/issues"
+    "url": "https://github.com/dalexj/atom-zenburn/issues"
   }
 }
